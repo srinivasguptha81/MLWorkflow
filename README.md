@@ -91,8 +91,7 @@ MLflow-MultiModel-Demo/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/srinivasguptha81/MLWorkflow.git
 ```
 
 ---
